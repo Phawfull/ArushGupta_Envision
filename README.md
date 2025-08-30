@@ -1,17 +1,17 @@
 Repository for Envision Tasks
-Welcome to the Number Guessing Game!
-This is a simple text-based game built with Python. Your goal is to guess the secret number the computer has picked, which is somewhere between 1 and 100. The game will give you hints after each guess to help you get closer.
+Welcome to the Number Guessing Game! \n
+This is a simple text-based game built with Python. Your goal is to guess the secret number the computer has picked, which is somewhere between 1 and 100. The game will give you hints after each guess to help you get closer.\n
 
 Features
-Interactive Menu: You can choose to start a new game, check your best score, or quit.
+Interactive Menu: You can choose to start a new game, check your best score, or quit.\n
 
-Smart Hints: The game won't just say "too high" or "too low." It'll tell you if you're a little close to the number to help you narrow it down.
+Smart Hints: The game won't just say "too high" or "too low." It'll tell you if you're a little close to the number to help you narrow it down.\n
 
-High Score Tracking: The game remembers your best score for the current session, so you can try to beat your own record!
+High Score Tracking: The game remembers your best score for the current session, so you can try to beat your own record!\n
 
-Error Handling: Don't worry if you type something wrong. The program will handle it and ask you to try again.
+Error Handling: Don't worry if you type something wrong. The program will handle it and ask you to try again.\n
 
-How to Play
+How to Play\n
 When you first start, you'll see a simple menu.
 
 Choose "Play a new game" to get started.
