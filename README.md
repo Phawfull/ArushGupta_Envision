@@ -1,4 +1,3 @@
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/67c23bc8-9dc0-4fd5-ad42-3997c8ee023f" /># ArushGupta_Envision
 Repository for Envision Tasks
 Welcome to the Number Guessing Game!
 This is a simple text-based game built with Python. Your goal is to guess the secret number the computer has picked, which is somewhere between 1 and 100. The game will give you hints after each guess to help you get closer.
